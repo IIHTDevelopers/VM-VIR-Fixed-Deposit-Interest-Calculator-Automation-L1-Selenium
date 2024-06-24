@@ -56,7 +56,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public String validateTitleOfCurrentPage() throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -68,43 +68,43 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public String navigateToFixedDepositInterestCalculatorPage() throws Exception {
-				
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test2
 	 * about this method enterInvestmentAmountInFixedDepositInterestCalculatorForm() 
-	 * @param : Map<String, String>,  get the data from json file as type Map<String, String> expectedData
-	 * @description : enter value in Your Investment Amount text field as per json expected data and fetch the value of that text field ,
+	 * @param : get the data from Map<String, String> expectedData using field "InvestmentAmountValue"
+	 * @description : enter value in Your Investment Amount text field as per expected data and fetch the value of that text field ,
 	 * @return : fetch the value from the in Your Investment Amount text field as string type
 	 * @author : Yaksha
 	 */
 	public String enterInvestmentAmountInFixedDepositInterestCalculatorForm(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test3
 	 * about this method enterInvestmentPeriodInFixedDepositInterestCalculatorForm() 
-	 * @param : Map<String, String>,  get the data from json file as type Map<String, String> expectedData
-	 * @description : enter value in Your Investment Period text field as per json expected data and fetch the value of that text field ,
+	 * @param : get the data from Map<String, String> expectedData using field "InvestmentPeriodValue"
+	 * @description : enter value in Your Investment Period text field as per expected data and fetch the value of that text field ,
 	 * @return : fetch the value from the in Your Investment Period text field as string type
 	 * @author : Yaksha
 	 */
 	public String enterInvestmentPeriodInFixedDepositInterestCalculatorForm(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
 	/**@Test4
 	 * about this method enterRateOfReturnInFixedDepositInterestCalculatorForm() 
-	 * @param : Map<String, String>,  get the data from json file as type Map<String, String> expectedData
-	 * @description : enter value in Your Rate Of Return text field as per json expected data and fetch the value of that text field ,
+	 * @param : get the data from Map<String, String> expectedData using field "RateOfReturnValue"
+	 * @description : enter value in Your Rate Of Return text field as per expected data and fetch the value of that text field ,
 	 * @return : fetch the value from the in Your Investment Period text field as string type
 	 * @author : Yaksha
 	 */
 	public String enterRateOfReturnInFixedDepositInterestCalculatorForm(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -116,19 +116,19 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public Boolean selectInterestFrequencyButtonInFixedDepositInterestCalculatorForm() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
 	/**@Test6
 	 * about this method enterTaxRateInFixedDepositInterestCalculatorForm() 
-	 * @param :Map<String, String>,  get the data from json file as type Map<String, String> expectedData
-	 * @description : enter value in Your Tax Rate text field as per json expected data and fetch the value of that text field ,
+	 * @param :get the data from Map<String, String> expectedData using field "TaxRateValue"
+	 * @description : enter value in Your Tax Rate text field as per expected data and fetch the value of that text field ,
 	 * @return : fetch the value from the Tax Rate  text field as string type
 	 * @author : Yaksha
 	 */
 	public String enterTaxRateInFixedDepositInterestCalculatorForm(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -140,7 +140,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public Boolean fetchTotalInterest() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -152,7 +152,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public Boolean fetchTotalPayment() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -164,7 +164,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public Boolean fetchTotalCorpus() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -176,7 +176,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	 * @author : Yaksha
 	 */
 	public Boolean fetchTaxAmount() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 }
