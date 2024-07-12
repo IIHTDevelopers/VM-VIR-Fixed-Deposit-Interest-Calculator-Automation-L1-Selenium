@@ -10,34 +10,13 @@ import org.testng.asserts.SoftAssert;
 public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage 
 {
 	public SoftAssert softAssert;
-	/*
-	 * WebElemet Declaration
-	 */	
-	By personalFinanceNavigationMenu = By.xpath("");
-	By fixedDepositInterestCalculatorLink = By.xpath(""); 
-	By investmentAmountTextfield = By.xpath("");
-	By investmentPeriodTextfield = By.xpath("");
-	By rateOfReturnTextfield = By.xpath("");
-	By interestFrequencyYearlyButton = By.xpath("");
-	By taxRateTextfield = By.xpath("");
-	By totalInterestContentBox = By.xpath("");
-	By totalInterestResultButton = By.xpath("");
-	By totalInterestValue = By.xpath("");
-	By totalPaymentResultButton = By.xpath("");
-	By totalPaymentValue = By.xpath("");
-	By totalCorpusResultButton = By.xpath("");
-	By totalCorpusValue = By.xpath("");
-	By totalTaxAmountResultButton = By.xpath("");
-	By totalTaxAmountValue = By.xpath("");
-	By totalInterestRupeesValueTextLink = By.xpath("");
-	By submitButton = By.xpath("");
 
+	// please write all locators here
 
 	/*
 	 * Getting the page name
 	 */	
 	String pageName = this.getClass().getSimpleName();
-
 
 	/*
 	 * constructor Initialization
