@@ -27,7 +27,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 	}	
 
 
-	/**@Test0
+	/**@Test1.1
 	 * about this method validateTitleOfCurrentPage() 
 	 * @param : null
 	 * @description : get the title of the home page and validate
@@ -39,7 +39,7 @@ public class Fixed_Deposit_Interest_Calculator_L1_Pages extends StartupPage
 		return null;
 	}
 	
-	/**@Test1
+	/**@Test1.2
 	 * about this method navigateToFixedDepositInterestCalculatorPage() 
 	 * @param : null
 	 * @description : mousehover to Personal Finance Navigation bar and will click on fixed deposit interest calculator
